@@ -1,13 +1,16 @@
 # Whitelist for disney+ domains
 disneyplus.com
+disney.demdex.net
+disney-plus.net
+disneyplus.bn5x.net
 bamgrid.com
 bam.nr-data.net
 cdn.registerdisney.go.com
 cws.conviva.com
 d9.flashtalking.com
 disney-portal.my.onetrust.com
-disneyplus.bn5x.net
 js-agent.newrelic.com
-disney-plus.net
 dssott.com
 adobedtm.com
+edge.api.bamgrid.com
+device.auth.xboxlive.com
