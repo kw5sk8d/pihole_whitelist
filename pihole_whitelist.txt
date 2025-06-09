@@ -1,18 +1,9 @@
-# Whitelist for disney+ domains
-disneyplus.com
-disney.demdex.net
-disney-plus.net
-disneyplus.bn5x.net
-bamgrid.com
-bam.nr-data.net
-cdn.registerdisney.go.com
-cws.conviva.com
-d9.flashtalking.com
-disney-portal.my.onetrust.com
-js-agent.newrelic.com
-dssott.com
-adobedtm.com
-edge.api.bamgrid.com
-device.auth.xboxlive.com
-cdn.cookielaw.org
-rum.browser-intake-datadoghq.com
+# Whitelist for PLEX domains
+plex.tv 
+tv.plex.tv
+pubsub.plex.bz
+meta.plex.tv
+gravatar.com
+cdn.plex.tv
+player.plex.tv
+api.plex.tv
