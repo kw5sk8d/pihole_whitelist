@@ -7,3 +7,8 @@ gravatar.com
 cdn.plex.tv
 player.plex.tv
 api.plex.tv
+
+# Possible culprets to the samsung OLED getting in the way of plex running smoothly
+app-measurement.com
+dc.dqa.samsung.com
+fls-na.amazon.com
