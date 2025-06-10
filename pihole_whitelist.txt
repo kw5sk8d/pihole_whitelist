@@ -12,3 +12,9 @@ api.plex.tv
 app-measurement.com
 dc.dqa.samsung.com
 fls-na.amazon.com
+
+# chat GPT too
+chat.openai.com
+openai.com
+cdn.openai.com
+api.openai.com
